@@ -4,7 +4,7 @@
 💼 Top Rated Plus on Upwork (100% Job Success)
 
 Hi there! 👋
-I'm a Certified Public Accountant with 5+ years of experience helping businesses with QuickBooks, Xero, and compliance reporting. I share Excel templates, process documentation, and accounting workflows that I've developed for my 50+ clients.
+I'm a Certified Public Accountant with 7+ years of experience helping businesses with QuickBooks, Xero, and compliance reporting. I share Excel templates, process documentation, and accounting workflows that I've developed for my 50+ clients.
 
 🔧 What I specialize in:
 🇺🇸 US E-commerce Bookkeeping (Amazon, Shopify, eBay)
@@ -45,7 +45,7 @@ John's GitHub stats
 
 🔗 LinkedIn
 
-📧 john.rey.cpa@gmail.com
+📧 johnreyremorin13@gmail.com
 
 💬 Stack Overflow
 
